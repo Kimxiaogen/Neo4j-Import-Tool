@@ -1,0 +1,4 @@
+url=http://localhost:7474
+username=neo4j
+password=123456
+import_from=C:\Users\dell\Desktop\知识图谱
